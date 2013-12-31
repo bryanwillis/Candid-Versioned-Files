@@ -110,9 +110,16 @@ display: none;
 
 
 
+
+
+
+
+
+
 #dashboard-widgets #simple_history_dashboard_widget .wrap simple-history-wrap simple-history-is-ready simple-history-has-items {margin:0;}
 
 
 .wp-admin.index-php .su-tabs {
 margin: 0px !important;}
 
+#wpadminbar {display:none;}
